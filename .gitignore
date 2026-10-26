@@ -1,4 +1,5 @@
 out/
+release/
 *.o
 *.elf
 *.prx

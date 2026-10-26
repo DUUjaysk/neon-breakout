@@ -3,7 +3,7 @@
  *   tcc -o test.exe test_host.c        (Windows, TCC)
  *   gcc -O1 -o test test_host.c -lm    (Linux, GitHub)
  * Робот-игрок проходит уровни, проверки следят за мячом, бонусами и сохранением.
- * Кадры игры сохраняются в out/*.bmp.
+ * Кадры игры сохраняются в папку out (файлы .bmp).
  */
 #define HOST_TEST
 #include "breakout.c"
