@@ -1,0 +1,6 @@
+out/
+*.o
+*.elf
+*.prx
+PARAM.SFO
+EBOOT.PBP
